@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Quest</string>
+    <string name="question_text">Укажи простые числа</string>
+    <string name="v1_1">7</string>
+    <string name="v1_2">98</string>
+    <string name="v1_3">9</string>
+    <string name="v1_4">15</string>
+    <string name="v1_5">67</string>
+    <string name="v1_6">100</string>
+
+
+    <string name="question_prime">Какое число является простым?</string>
+    <string name="question_even">Какое число является четным?</string>
+    <string name="question_divided_by_3">Какое число делится на 3?</string>
+    <string name="question_meme">Где тут мем?</string>
+    <string name="question_no_even">Какое число является нечетным?</string>
+
+
+    <string name="developers">Разработчики</string>
+    <string name="help">Помощь</string>
+    <string name="next_button">Следующий</string>
+    <string name="previous_button">Предыдущий</string>
+
+    <string name="developers_toast">Козюков Вадим Романович и Дмас</string>
+    <string name="help_toast">Обратитесь к разработчикам</string>
+
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!!!!!!!!</string>
+
+    <string name="show_hint">Показать подсказку</string>
+    <string name="hint_prime">Простое число — натуральное число больше 1, имеющее ровно два положительных делителя: 1 и само это число.</string>
+    <string name="hint_even">Чётное число делится на 2 без остатка. Последняя цифра — 0, 2, 4, 6 или 8.</string>
+    <string name="hint_divided_by_3">Число делится на 3 без остатка, если сумма его цифр делится на 3.</string>
+    <string name="hint_meme">В этом вопросе правильным ответом назначено число 67.</string>
+    <string name="hint_odd">Нечётное число не делится на 2 без остатка. Последняя цифра — 1, 3, 5, 7 или 9.</string>
+
+    <string name="help_used">Вы воспользовались подсказкой. Попробуйте в следующий раз ответить самостоятельно.</string>
+</resources>
